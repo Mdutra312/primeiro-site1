@@ -1,0 +1,10 @@
+body {
+ background-color:black;
+ padding: 3px;
+}
+.logo{
+    background-color: yellowgreen;
+}
+#espaco{
+    padding-left: 5%;
+}

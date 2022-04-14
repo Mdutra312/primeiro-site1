@@ -1,0 +1,30 @@
+.logo{
+    height: 40px;
+}
+.dropdown{
+    padding-top: 1%;
+    
+}
+.active{
+    color: black;
+}
+.textRede{
+    color:black;
+
+}
+.marca{
+    color:black;
+}
+.card-group{
+    height: 550px;
+    width: 1690px;
+    padding: 1%;
+
+}
+.card-body{
+    padding: 3px;
+}
+.container-fluid{
+    height: 80px;
+    width: 1900px;
+}

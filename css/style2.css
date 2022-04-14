@@ -1,0 +1,24 @@
+#perfil{
+   
+    border-radius: 50%;
+    border:solid 1px;
+    border-color: aliceblue;
+  
+}
+a:active {
+    color: rgb(255, 0, 0);
+  }
+
+.ul{
+    flood-color: white;
+    color: white;
+}
+.color{
+    color: white;
+}
+.titulo{
+    color: aliceblue;
+    border: 10px;
+    border-color: aqua;
+}
+  
